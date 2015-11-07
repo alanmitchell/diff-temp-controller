@@ -22,7 +22,7 @@ The differential controller must be powered in one of two ways.  The Arduino Pro
 
 A schematic of the differential controller circuit is shown below:
 
-TO DO
+[Differential Controller Schematic](images/differential_controller_schematic.jpg)
 
 
 
