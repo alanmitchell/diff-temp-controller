@@ -26,7 +26,7 @@ A schematic of the differential controller circuit is shown below:
 
 ---
 
-**Note:**  This circuit was redone using the [Partcile.io Photon board](https://docs.particle.io/datasheets/photon-datasheet/).  The revised code has not been posted to this repo yet.  Here is a picturage of the final unit:
+**Note:**  This circuit was redone using the [Partcile.io Photon board](https://docs.particle.io/datasheets/photon-datasheet/).  The revised code has not been posted to this repo yet.  Here is a picture of the final unit:
 
 ![Particle.io Photon version](images/particle_version.jpg)
 
